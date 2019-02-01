@@ -1,6 +1,6 @@
 {
 	"name": "cubitworx/laravel-languages",
-	"version": "1.0.2",
+	"version": "1.0.0-alpha.1",
 	"description": "Table of langauges as per ISO 639-1 & ISO 639-3",
 	"keywords": ["laravel", "languages", "ISO 639-1", "ISO 639-3"],
 	"license": "MIT",
